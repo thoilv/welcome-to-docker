@@ -21,3 +21,7 @@ EXPOSE 3000
 
 # Start the app using serve command
 CMD [ "serve", "-s", "build" ]
+
+
+
+# Edit from 20251115:
