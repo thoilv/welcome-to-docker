@@ -9,6 +9,7 @@ const Confetti = () => {
         // you can initiate the tsParticles instance (engine) here, adding custom shapes or presets
         // this loads the tsparticles package bundle, it's the easiest method for getting everything ready
         // starting from v2 you can add only the features you need reducing the bundle size
+        // 20151115 dev8888
         await loadFull(engine);
     }, []);
 
@@ -175,3 +176,4 @@ const Confetti = () => {
 }
 
 export default Confetti;
+//dev88888

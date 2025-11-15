@@ -45,6 +45,7 @@
 .fa-linkedin {
   background: #55acee;
   color: white;
+  height: inherit;
 }
 
 /* Reddit */
