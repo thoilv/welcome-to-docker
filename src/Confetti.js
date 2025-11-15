@@ -9,7 +9,11 @@ const Confetti = () => {
         // you can initiate the tsParticles instance (engine) here, adding custom shapes or presets
         // this loads the tsparticles package bundle, it's the easiest method for getting everything ready
         // starting from v2 you can add only the features you need reducing the bundle size
+<<<<<<< HEAD
         // 20151115 dev8888
+=======
+        //Dev20251115
+>>>>>>> feature/dev_202511xx_release
         await loadFull(engine);
     }, []);
 
@@ -161,10 +165,10 @@ const Confetti = () => {
                         options: {
                             polygon: [
                                 {
-                                    sides: 5
+                                    sides: 9
                                 },
                                 {
-                                    sides: 6
+                                    sides: 8
                                 }
                             ]
                         }
